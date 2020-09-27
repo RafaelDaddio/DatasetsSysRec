@@ -20,7 +20,7 @@ The Amazon Datasets were extracted from McAuley's website [3] which are derived 
 
 - Hetrec MovieLens 2011 - 2k: In this dataset, we have mantained only movies from the years of 2000 until 2011 inclusive, resulting in XXX users, 1851 items and XXX interactions. We  enriched it with the top ten users reviews from IMDb. If you use this dataset, please reference the original dataset [6].
 
-Link: https://drive.google.com/file/d/19ovSCGusssZB0GeP0M-hdd6mgKtLrUB4/view?usp=sharing
+ Link: https://drive.google.com/file/d/19ovSCGusssZB0GeP0M-hdd6mgKtLrUB4/view?usp=sharing
 
 # References
 
