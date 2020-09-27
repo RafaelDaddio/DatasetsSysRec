@@ -6,11 +6,11 @@ The Amazon Datasets were extracted from McAuley's website [3] which are derived 
 
 # Information about Datasets:
 
-- Amazon Apps: This dataset was filtered by leaving only users and items with at least 10 interactions. We have filtered out interactions with no user reviews. This results in: 16201 user, 4869 items and 264.048 interactions. If you use this dataset, please cite the original paper[4] and the following: Rafael M. D’Addio, Ronnie S. Marinho, Marcelo G. Manzato, Combining different metadata views for better recommendation accuracy, Information Systems, Volume 83, 2019, Pages 1-12. DOI: https://doi.org/10.1016/j.is.2019.01.008.
+- Amazon Apps: This dataset was filtered by leaving only users and items with at least 10 interactions. We have filtered out interactions with no user reviews. This results in: 16201 user, 4869 items and 264.048 interactions. If you use this dataset, please cite the original paper [4] and the following: Rafael M. D’Addio, Ronnie S. Marinho, Marcelo G. Manzato, Combining different metadata views for better recommendation accuracy, Information Systems, Volume 83, 2019, Pages 1-12. DOI: https://doi.org/10.1016/j.is.2019.01.008.
  
    Link: https://drive.google.com/file/d/1kXeoU7vgmYrsRQYKYTZFpgITJtEdPmE7/view?usp=sharing
 
-- Amazon Cds and Vinyls: This dataset was filtered by leaving only users and items with at least 15 interactions. We have filtered out interactions with no user reviews. This results in: 5539 user, 6286 items and 220.868 interactions. If you use this dataset, please cite the original paper[4] and the following: Rafael M. D’Addio, Ronnie S. Marinho, Marcelo G. Manzato, Combining different metadata views for better recommendation accuracy, Information Systems, Volume 83, 2019, Pages 1-12. DOI: https://doi.org/10.1016/j.is.2019.01.008.
+- Amazon Cds and Vinyls: This dataset was filtered by leaving only users and items with at least 15 interactions. We have filtered out interactions with no user reviews. This results in: 5539 user, 6286 items and 220.868 interactions. If you use this dataset, please cite the original paper [4] and the following: Rafael M. D’Addio, Ronnie S. Marinho, Marcelo G. Manzato, Combining different metadata views for better recommendation accuracy, Information Systems, Volume 83, 2019, Pages 1-12. DOI: https://doi.org/10.1016/j.is.2019.01.008.
 
   Link: https://drive.google.com/file/d/1YMbtXfASmBY2IJu6klVVxWZ1bzLP2EJ5/view?usp=sharing
 
@@ -18,7 +18,9 @@ The Amazon Datasets were extracted from McAuley's website [3] which are derived 
 
   Link: https://drive.google.com/file/d/1K-5o2EypVzfClOswhKeAsAZG4O0KLFkF/view?usp=sharing
 
-- Hetrec MovieLens 2011 - 2k: In this dataset, we have mantained only movies from the years of 2000 until 2011 inclusive, resulting in XXX users, 1851 items and XXX interactions. We  enriched it with the top ten users reviews from IMDb. If you use this dataset, please reference the original dataset [6] and cite the following: Rafael M. D’Addio, Ronnie S. Marinho, Marcelo G. Manzato, Combining different metadata views for better recommendation accuracy, Information Systems, Volume 83, 2019, Pages 1-12. DOI: https://doi.org/10.1016/j.is.2019.01.008.
+- Hetrec MovieLens 2011 - 2k: In this dataset, we have mantained only movies from the years of 2000 until 2011 inclusive, resulting in XXX users, 1851 items and XXX interactions. We  enriched it with the top ten users reviews from IMDb. If you use this dataset, please reference the original dataset [6].
+
+Link: https://drive.google.com/file/d/19ovSCGusssZB0GeP0M-hdd6mgKtLrUB4/view?usp=sharing
 
 # References
 
